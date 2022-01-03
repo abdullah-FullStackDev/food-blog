@@ -2,7 +2,7 @@
 
 > This project consists of building a food blog-page, to understand the use of css frameworks, in this project i used HTML5/CSS3 for making the front-end of this web-site and i wanted to know how HTML5/CSS3 works.
 
-![Alt text](https://github.com/abdullah-FullStackDev/news/blob/main/ss.png)
+![Alt text](https://github.com/abdullah-FullStackDev/food-blog/blob/main/ss.png)
 
 ## Built With
 
